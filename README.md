@@ -50,6 +50,6 @@ The output of test will be stored in `./figures` folder
 
 | Model Name | VGG16    | ResNet50    | Inception ResNet V2    | MobileNet V2    |
 | :---:   | :---: | :---: | :---: | :---: |
-| Accuracy (%) | 88.89    | 283   | 88.89   | 33.33%   |
+| Accuracy (%) | 88.89    | 33.33   | 88.89   | 78   |
 
 The Inception-Resnet-v2 (although similar performance to VGG16) can be considered the best due to its computational efficiency owing to it being lightweight and its ability to train on a single GPU (less resource intensive).
